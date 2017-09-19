@@ -1,0 +1,4 @@
+Bundle-Name: react-example
+Bundle-SymbolicName: react.example
+Bundle-Version: 1.0.0
+Export-Package: react.example.constants
