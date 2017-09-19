@@ -3,4 +3,4 @@
 <p>
 	<b><liferay-ui:message key="react-example.caption"/></b>
 </p>
-    <div id="app"></div>
+    <div id="root"></div>
